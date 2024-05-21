@@ -1,3 +1,4 @@
+# 选择模式
 mode = input("Choose your mode: " + '\n'
              "1. pt" + '\n'
              "2. inch" + '\n')
